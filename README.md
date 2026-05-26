@@ -89,15 +89,9 @@ Built **pivot tables** for key business questions:
 
 ---
 
-## 🙌 Acknowledgements
-
-Dataset and guidance provided by **Rishabh Mishra**
-
----
-
 ## 🔗 Connect
 
 Feel free to connect for collaboration or feedback:
 
-- 💼 **LinkedIn:** [Your LinkedIn Profile]
-- 💻 **GitHub:** [Your GitHub Profile]
+- 💼 **LinkedIn:** https://www.linkedin.com/in/anand-gupta-58394a270/
+- 💻 **GitHub:** https://github.com/anand02gupta
