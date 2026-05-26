@@ -1,1 +1,103 @@
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/></head><body># 🏪 Vrinda Store Sales Analysis – Excel Dashboard<br><br>## 📌 Project Overview<br>This Excel-based project analyzes **Vrinda Store's <a href="tel:2022">2022</a> annual sales data** to understand customer behavior, sales trends, and performance across regions, channels, and product categories. The result is an **interactive dashboard** that helps the store owner make **data-driven decisions** to grow sales in <a href="tel:2023">2023</a>.<br><br>---<br><br>## 🎯 Objective<br>- Create an **annual sales report for <a href="tel:2022">2022</a>**<br>- Identify **key customers, top states, best-selling categories**, and **peak sales months**<br>- Provide **actionable insights** to improve marketing and sales strategies for <a href="tel:2023">2023</a><br><br>---<br><br>## 📊 Dataset<br><br>| Metric | Value |<br>|--------|-------|<br>| **Data Source** | Vrinda Store <a href="tel:2022">2022</a> sales dataset |<br>| **Total Orders** | 31,<a href="tel:047">047</a> orders |<br>| **Total Revenue** | ₹2,14,41,<a href="tel:209">209</a> |<br>| **Average Order Value** | ₹<a href="tel:691">691</a> |<br><br>---<br><br>## 🔧 Skills &amp; Tools Used<br><br>- ✅ Microsoft Excel (Advanced)<br>- ✅ Data Cleaning &amp; Transformation<br>- ✅ Pivot Tables &amp; Pivot Charts<br>- ✅ Slicers for interactivity<br>- ✅ Conditional Formatting<br>- ✅ Charts &amp; Dashboard Design<br><br>---<br><br>## 🛠️ Process<br><br>### 1️⃣ Data Cleaning<br>- Checked for **NULL values, blanks, and errors**<br>- Removed **duplicates** and irrelevant columns<br>- Standardized **data types, formats, and values**<br>- Created new columns: **Age Group** and **Month**<br><br>### 2️⃣ Data Analysis<br>Built **pivot tables** for key business questions:<br>- Sales vs Orders<br>- Highest sales month<br>- Gender-based purchasing<br>- Order status distribution<br>- Top 10 states by sales<br>- Age–gender relationship<br>- Sales channel contribution<br>- Highest-selling category<br><br>### 3️⃣ Data Visualization &amp; Dashboard<br>- Created **pivot charts** from pivot tables<br>- Merged all charts into a **single interactive dashboard**<br>- Added **3 slicers** (Month, Gender, State) for dynamic filtering<br><br>---<br><br>## 🔑 Key Insights<br><br>| Aspect | Insight |<br>|--------|---------|<br>| **Peak Months** | February &amp; March have highest sales &amp; orders |<br>| **Gender** | ~64–65% of purchases are by **women** |<br>| **Top States** | **Maharashtra, Karnataka, Uttar Pradesh** (~35% of sales) |<br>| **Age Group** | Adults **30–49 yrs** contribute ~50% of sales |<br>| **Sales Channels** | **Amazon, Flipkart, Myntra** drive ~80% of sales |<br>| **Order Status** | **92% delivered**, showing strong fulfillment |<br>| **Top Category** | **Set** category has highest sales volume |<br><br>---<br><br>## 💡 Recommendations<br><br>1. **Target women aged 30–49** in **Maharashtra, Karnataka, and Uttar Pradesh** with focused ads, offers, and coupons<br>2. Strengthen **online presence** on **Amazon, Flipkart, and Myntra** for maximum reach<br>3. Plan **promotional campaigns** during **January–March** to capitalize on peak sales months<br><br>---<br><br>## 📂 Files Included<br><br>- 📄 `<a href="http://Vrinda_Store_Sales_Data.xlsx">Vrinda_Store_Sales_Data.xlsx</a>` – Raw dataset<br>- 📊 `<a href="http://Vrinda_Store_Dashboard.xlsx">Vrinda_Store_Dashboard.xlsx</a>` – Interactive Excel dashboard with slicers<br><br>---<br><br>## 🙌 Acknowledgements<br><br>Dataset and guidance provided by **Rishabh Mishra**<br><br>---<br><br>## 🔗 Connect<br><br>Feel free to connect for collaboration or feedback:<br><br>- 💼 **LinkedIn:** [Your LinkedIn Profile]<br>- 💻 **GitHub:** [Your GitHub Profile]</body></html>
+# 🏪 Vrinda Store Sales Analysis – Excel Dashboard
+
+## 📌 Project Overview
+This Excel-based project analyzes **Vrinda Store's 2022 annual sales data** to understand customer behavior, sales trends, and performance across regions, channels, and product categories. The result is an **interactive dashboard** that helps the store owner make **data-driven decisions** to grow sales in 2023.
+
+---
+
+## 🎯 Objective
+- Create an **annual sales report for 2022**
+- Identify **key customers, top states, best-selling categories**, and **peak sales months**
+- Provide **actionable insights** to improve marketing and sales strategies for 2023
+
+---
+
+## 📊 Dataset
+
+| Metric | Value |
+|--------|-------|
+| **Data Source** | Vrinda Store 2022 sales dataset |
+| **Total Orders** | 31,047 orders |
+| **Total Revenue** | ₹2,14,41,209 |
+| **Average Order Value** | ₹691 |
+
+---
+
+## 🔧 Skills & Tools Used
+
+- ✅ Microsoft Excel (Advanced)
+- ✅ Data Cleaning & Transformation
+- ✅ Pivot Tables & Pivot Charts
+- ✅ Slicers for interactivity
+- ✅ Conditional Formatting
+- ✅ Charts & Dashboard Design
+
+---
+
+## 🛠️ Process
+
+### 1️⃣ Data Cleaning
+- Checked for **NULL values, blanks, and errors**
+- Removed **duplicates** and irrelevant columns
+- Standardized **data types, formats, and values**
+- Created new columns: **Age Group** and **Month**
+
+### 2️⃣ Data Analysis
+Built **pivot tables** for key business questions:
+- Sales vs Orders
+- Highest sales month
+- Gender-based purchasing
+- Order status distribution
+- Top 10 states by sales
+- Age–gender relationship
+- Sales channel contribution
+- Highest-selling category
+
+### 3️⃣ Data Visualization & Dashboard
+- Created **pivot charts** from pivot tables
+- Merged all charts into a **single interactive dashboard**
+- Added **3 slicers** (Month, Gender, State) for dynamic filtering
+
+---
+
+## 🔑 Key Insights
+
+| Aspect | Insight |
+|--------|---------|
+| **Peak Months** | February & March have highest sales & orders |
+| **Gender** | ~64–65% of purchases are by **women** |
+| **Top States** | **Maharashtra, Karnataka, Uttar Pradesh** (~35% of sales) |
+| **Age Group** | Adults **30–49 yrs** contribute ~50% of sales |
+| **Sales Channels** | **Amazon, Flipkart, Myntra** drive ~80% of sales |
+| **Order Status** | **92% delivered**, showing strong fulfillment |
+| **Top Category** | **Set** category has highest sales volume |
+
+---
+
+## 💡 Recommendations
+
+1. **Target women aged 30–49** in **Maharashtra, Karnataka, and Uttar Pradesh** with focused ads, offers, and coupons
+2. Strengthen **online presence** on **Amazon, Flipkart, and Myntra** for maximum reach
+3. Plan **promotional campaigns** during **January–March** to capitalize on peak sales months
+
+---
+
+## 📂 Files Included
+
+- 📄 `Vrinda_Store_Sales_Data.xlsx` – Raw dataset
+- 📊 `Vrinda_Store_Dashboard.xlsx` – Interactive Excel dashboard with slicers
+
+---
+
+## 🙌 Acknowledgements
+
+Dataset and guidance provided by **Rishabh Mishra**
+
+---
+
+## 🔗 Connect
+
+Feel free to connect for collaboration or feedback:
+
+- 💼 **LinkedIn:** [Your LinkedIn Profile]
+- 💻 **GitHub:** [Your GitHub Profile]
